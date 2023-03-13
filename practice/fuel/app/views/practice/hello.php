@@ -8,5 +8,8 @@
 </head>
 <body>
     <p>hello</p>
+    <p>こんにちは</p>
+    <p>good evening</p>
+    <p>こんばんは</p>
 </body>
 </html>
