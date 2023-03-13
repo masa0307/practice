@@ -32,6 +32,11 @@ class Controller_Practice extends Controller
 		return Response::forge(View::forge('practice/index'));
 	}
 
+    public function action_practice()
+	{
+		return Response::forge(View::forge('practice/hello'));
+	}
+
 	/**
 	 * A typical "Hello, Bob!" type example.  This uses a Presenter to
 	 * show how to use them.
